@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First post",
+      "body": "Lorem ipsum"
+    },
+    {
+      "id": 2,
+      "title": "Next Js",
+      "body": "Other content"
+    }
+  ]
+}
